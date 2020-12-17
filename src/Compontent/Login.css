@@ -1,0 +1,18 @@
+.Login {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background-color: black;
+}
+.Login >  img {
+    
+    width: 100%;
+}
+.Login > a {
+    font-weight: bolder;
+    padding: 20px;
+    background-color: #1db922;
+    border-radius: 99px;
+    color: white;
+    text-decoration: none;
+}
